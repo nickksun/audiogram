@@ -115,7 +115,7 @@
     "captionRight": 650,
     "captionColor": "#000",
     "captionFont": "bold normal 30px 'Source Sans Pro'",
-    "maxDuration": 600,
+    "maxDuration": 300,
     "backgroundImage": "aws-techchat.png"
   }
 }
