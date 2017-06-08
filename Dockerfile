@@ -19,5 +19,5 @@ RUN git clone https://github.com/nickksun/audiogram.git
 WORKDIR /home/audiogram/audiogram
 
 # Install dependencies
-RUN npm install
-CMD npm start
+RUN git checkout techchat && npm install
+# CMD npm start
