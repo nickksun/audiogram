@@ -115,7 +115,23 @@
     "captionRight": 650,
     "captionColor": "#000",
     "captionFont": "bold normal 30px 'Source Sans Pro'",
-    "maxDuration": 300,
+    "maxDuration": 7200,
     "backgroundImage": "aws-techchat.png"
+  },
+  "AWS Pulse": {
+    "waveColor": "#00b4ff",
+    "width": 720,
+    "height": 720,
+    "samplesPerFrame": 64,
+    "waveTop": 20,
+    "waveBottom": 700,
+    "captionLineSpacing": -15,
+    "captionTop": 85,
+    "captionLeft": 60,
+    "captionRight": 650,
+    "captionColor": "#000",
+    "captionFont": "bold normal 30px 'Source Sans Pro'",
+    "maxDuration": 7200,
+    "backgroundImage": "aws-pulse.png"
   }
 }
